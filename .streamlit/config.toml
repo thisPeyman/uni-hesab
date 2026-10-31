@@ -1,0 +1,38 @@
+[server]
+address = "127.0.0.1"
+headless = true
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#17654B"
+backgroundColor = "#F7F6F2"
+secondaryBackgroundColor = "#F0F1EB"
+textColor = "#18382E"
+font = "Vazirmatn"
+headingFont = "Vazirmatn"
+borderColor = "#DCE2D8"
+baseRadius = "14px"
+buttonRadius = "10px"
+showSidebarBorder = true
+paddingTop = "5rem"
+paddingBottom = "3rem"
+baseFontSize = 16
+headingFontSizes = ["30px", "24px", "20px", "18px", "16px", "14px"]
+headingFontWeights = [800, 750, 700, 650, 600, 600]
+
+[theme.sidebar]
+paddingTop = "1rem"
+backgroundColor = "#EEEFE8"
+secondaryBackgroundColor = "#F7F6F2"
+
+[[theme.fontFaces]]
+family = "Vazirmatn"
+url = "app/static/Vazirmatn.woff2"
+weight = "100 900"
