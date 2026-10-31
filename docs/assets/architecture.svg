@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440">
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#17654b" stroke-width="1.4"/></marker></defs>
+<rect width="1000" height="440" rx="18" fill="#f1f4ee"/>
+<g font-family="Tahoma,sans-serif" text-anchor="middle" fill="#18382e">
+<rect x="325" y="22" width="350" height="68" rx="12" fill="#17654b"/><text x="500" y="50" fill="white" font-size="20">Browser · Persian RTL UI</text><text x="500" y="74" fill="#e0e8d4" font-size="14">localhost:8501</text>
+<rect x="280" y="132" width="440" height="74" rx="12" fill="white" stroke="#dce2d8"/><text x="500" y="162" font-size="21">app.py → hesab/ui.py</text><text x="500" y="188" font-size="15">Streamlit · forms · session state · Plotly</text>
+<rect x="280" y="250" width="440" height="70" rx="12" fill="white" stroke="#17654b"/><text x="500" y="280" font-size="21">hesab/store.py · Store</text><text x="500" y="305" font-size="15">Validation · financial rules · atomic SQL</text>
+<rect x="30" y="150" width="210" height="128" rx="12" fill="#e1e9d5"/><text x="135" y="183" font-size="18">hesab/dates.py</text><text x="135" y="213" font-size="15">Jalali ↔ Gregorian ISO</text><text x="135" y="242" font-size="15">Asia/Tehran · jdatetime</text>
+<rect x="770" y="150" width="200" height="128" rx="12" fill="#e1e9d5"/><text x="870" y="184" font-size="18">static/ + config</text><text x="870" y="213" font-size="15">CSS · local Vazirmatn</text><text x="870" y="242" font-size="15">Theme · RTL · responsive</text>
+<rect x="190" y="365" width="285" height="50" rx="10" fill="#17654b"/><text x="332" y="396" font-size="19" fill="white">personal.sqlite3</text>
+<rect x="525" y="365" width="285" height="50" rx="10" fill="#b4bf8e"/><text x="667" y="396" font-size="19">demo.sqlite3</text>
+</g><g stroke="#17654b" fill="none" stroke-width="2" marker-end="url(#a)"><path d="M500 90V128"/><path d="M500 206V246"/><path d="M500 320V340H332V361"/><path d="M500 340H667V361"/><path d="M280 171H245"/><path d="M280 284H135V282"/><path d="M770 171H725"/></g>
+</svg>
