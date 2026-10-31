@@ -1,0 +1,9 @@
+{
+  "student_name": "[نام و نام خانوادگی]",
+  "professor_name": "[نام استاد]",
+  "course_title": "[عنوان درس]",
+  "student_number": "[شماره دانشجویی]",
+  "semester": "[شماره ترم / نیمسال تحصیلی]",
+  "university": "[نام دانشگاه / دانشکده]",
+  "submission_date": "[تاریخ ارائه شمسی]"
+}
