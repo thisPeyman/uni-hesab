@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="../report/report.css">
 
 <div class="cover">
-<div><div class="eyebrow">[نام دانشگاه / دانشکده]</div><div class="badge">گزارش نهایی پروژه دانشگاهی · نسخه 0.1.0</div></div>
+<div><div class="eyebrow">دانشگاه آزاد واحد الکترونیکی</div><div class="badge">گزارش نهایی پروژه دانشگاهی · نسخه 0.1.0</div></div>
 <div>
 <h1>حساب</h1>
 <h2>طراحی و پیاده‌سازی سامانه مدیریت مالی شخصی</h2>
@@ -10,12 +10,12 @@
 <div class="allocation"><i></i><i></i></div>
 <p class="small">پول قابل خرج و پول کنارگذاشته‌شده؛ دو بخش از یک موجودی.</p>
 <div class="meta">
-<div><span>نام و نام خانوادگی</span><b>[نام و نام خانوادگی]</b></div>
-<div><span>نام استاد</span><b>[نام استاد]</b></div>
-<div><span>عنوان درس</span><b>[عنوان درس]</b></div>
-<div><span>شماره دانشجویی</span><b>[شماره دانشجویی]</b></div>
-<div><span>شماره ترم / نیمسال تحصیلی</span><b>[شماره ترم / نیمسال تحصیلی]</b></div>
-<div><span>تاریخ ارائه</span><b>[تاریخ ارائه شمسی]</b></div>
+<div><span>نام و نام خانوادگی</span><b>پیمان خسروی نژاد</b></div>
+<div><span>نام استاد</span><b>پریسا رحمانی</b></div>
+<div><span>عنوان درس</span><b>پروژه فناوری اطلاعات</b></div>
+<div><span>شماره دانشجویی</span><b>40150341054309</b></div>
+<div><span>شماره ترم / نیمسال تحصیلی</span><b>4043</b></div>
+<div><span>تاریخ ارائه</span><b>1405/8/9</b></div>
 </div>
 </div>
 <div class="cover-bottom"><span>Python · Streamlit · SQLite</span><span>محلی، تک‌کاربره و مستقل از خدمات بانکی</span></div>
