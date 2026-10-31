@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "developing-with-streamlit": {
+      "source": "streamlit/streamlit",
+      "sourceType": "github",
+      "skillPath": "lib/streamlit/.agents/meta-skill/developing-with-streamlit/SKILL.md",
+      "computedHash": "6a3daff32db3d27f342814cbddbdac154d8a72ddca9a4399800263ba13129e0a"
+    },
+    "modern-python": {
+      "source": "trailofbits/skills",
+      "sourceType": "github",
+      "skillPath": "plugins/modern-python/skills/modern-python/SKILL.md",
+      "computedHash": "ed7e08dc6f4b06456cbd07db3d4d4e52a1f239b552a29614c76e7d602a440d70"
+    }
+  }
+}
