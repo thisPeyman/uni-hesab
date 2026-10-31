@@ -1,0 +1,14 @@
+{
+  "folders": [{"path": ".."}],
+  "extensions": {"recommendations": ["yzane.markdown-pdf"]},
+  "settings": {
+    "markdown-pdf.format": "A4",
+    "markdown-pdf.printBackground": true,
+    "markdown-pdf.displayHeaderFooter": false,
+    "markdown-pdf.includeDefaultStyles": false,
+    "markdown-pdf.margin.top": "17mm",
+    "markdown-pdf.margin.bottom": "18mm",
+    "markdown-pdf.margin.left": "16mm",
+    "markdown-pdf.margin.right": "16mm"
+  }
+}
