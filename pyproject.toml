@@ -1,0 +1,34 @@
+[project]
+name = "hesab"
+version = "0.1.0"
+description = "A local-first Persian personal finance app with Jalali budgets and savings goals"
+requires-python = ">=3.12"
+dependencies = [
+    "jdatetime>=6.1.1",
+    "plotly>=7.1.0",
+    "streamlit>=1.57,<2",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+extend-exclude = [".agents"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "--cov=hesab.store --cov=hesab.dates --cov-report=term-missing --cov-fail-under=80"
+
+[tool.ty.environment]
+python-version = "3.12"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "pytest-cov>=7.1.0",
+    "ruff>=0.17.3",
+    "ty>=0.0.95",
+]
